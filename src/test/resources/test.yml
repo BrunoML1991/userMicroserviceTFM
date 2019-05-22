@@ -1,0 +1,9 @@
+userList:
+  - mobile: 666667001
+    username: u7001
+    password: p7001
+    email: u7001@gmail.com
+    dni: 66666605R
+    address: C/ TPV, 5, 1A, 28000 Madrid
+    roles:
+      - OPERATOR
