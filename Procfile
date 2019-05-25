@@ -1,0 +1,1 @@
+web: -Dspring.profiles.active=prod
