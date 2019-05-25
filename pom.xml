@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>es.upm.miw</groupId>
-    <artifactId>betca-tpv-spring</artifactId>
+    <artifactId>users-microservice-tfm</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>betca-tpv-spring</name>
+    <name>users-microservice-tfm</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
